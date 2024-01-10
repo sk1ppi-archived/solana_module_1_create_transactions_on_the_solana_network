@@ -1,0 +1,31 @@
+{
+  "name": "@sk1ppi/solana-module-1-create-transactions-on-the-solana-network",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sk1ppi/solana_module_1_create_transactions_on_the_solana_network.git"
+  },
+  "keywords": [
+    "solana"
+  ],
+  "author": "sk1ppi",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sk1ppi/solana_module_1_create_transactions_on_the_solana_network/issues"
+  },
+  "homepage": "https://github.com/sk1ppi/solana_module_1_create_transactions_on_the_solana_network#readme",
+  "devDependencies": {
+    "dotenv": "^16.3.1",
+    "eslint": "^8.56.0",
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "@solana-developers/node-helpers": "^1.2.2",
+    "@solana/web3.js": "^1.88.0"
+  }
+}
