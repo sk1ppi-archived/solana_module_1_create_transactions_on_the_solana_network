@@ -1,7 +1,7 @@
 {
   "name": "@sk1ppi/solana-module-1-create-transactions-on-the-solana-network",
   "version": "1.0.0",
-  "description": "",
+  "description": "This package is a part of the Solana Development Course by James Pacheco and others. It contains the code for the first module of the bootcamp, which is about creating transactions on the Solana Network.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
